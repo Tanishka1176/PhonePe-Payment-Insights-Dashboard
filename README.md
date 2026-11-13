@@ -2,7 +2,7 @@
 
 Interactive Power BI dashboard that analyzes digital payment transactions, user segments, and service performance.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Files
 - `phonepay_analysis_1.pbix` – Power BI dashboard file
